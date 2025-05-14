@@ -12,5 +12,5 @@ setup(
                       'numpy',
                       "tqdm"
                       ],
-    py_modules=["krippendorff_graph"]
+    py_modules=["krippendorrf_graph"]
 )
